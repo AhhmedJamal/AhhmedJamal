@@ -67,30 +67,3 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
 
-
-## 🔍  Where to find me
-<p align="cente">
- 
-
-  <a href="https://github.com/AhhmedJamal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
-    </picture></a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahhmedd" >
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-
-</p>
-
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
-
-
-
-
-
-
-
-
