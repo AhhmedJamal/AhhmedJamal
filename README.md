@@ -72,7 +72,8 @@ Python                   1 repo              █░░░░░░░░░░�
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
     </picture></a>
-  <a href="https://www.linkedin.com/in/ahhmedd">
+    <div width="100"></div>
+  <a href="https://www.linkedin.com/in/ahhmedd" >
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 
 
