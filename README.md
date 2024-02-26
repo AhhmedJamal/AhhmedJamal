@@ -15,18 +15,6 @@
 🌃 Evening                287 commits         ██████████████████░░░░░░░   70.00 % 
 🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Tuesday                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Wednesday                83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -87,13 +75,14 @@ Python                   1 repo              █░░░░░░░░░░�
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
-<a name="learning-next"></a>
-
-## 📖  What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+
+<a name="learning-next"></a>
+
+## 📖  What I am currently learning / improving on
 
 
 ## 🔍  Where to find me
