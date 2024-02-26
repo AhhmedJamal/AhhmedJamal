@@ -1,7 +1,7 @@
 #    <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"> Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.giff" width="230" />
 
 
 <div align="center" width="50">
