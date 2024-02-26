@@ -69,7 +69,7 @@ Python                   1 repo              █░░░░░░░░░░�
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/AhmedJamal)
  &nbsp;&nbsp;&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- [GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ ![LinkedIn](https://www.linkedin.com/in/AhmedJamal)
 
 
   <a href="https://github.com/AhhmedJamal">
