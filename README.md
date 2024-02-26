@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<div style={margin:"auto"}>
+<div align="center" width="50">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
-</div>
+
 
 
 **I'm a Night 🦉** 
@@ -60,8 +60,8 @@ Python                   1 repo              █░░░░░░░░░░�
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
 <a name="learning-next"></a>
-
-## **Code Cycle**<br>
+<hr/>
+ **Code Cycle**<br>
 <div>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,6 +94,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
-
+</div>
 
 
