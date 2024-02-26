@@ -85,6 +85,9 @@ Python                   1 repo              █░░░░░░░░░░�
 ## 🔍  Where to find me
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/AhmedJamal)
+[
+<img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+]
 
   <a href="https://github.com/AhhmedJamal">
     <picture>
