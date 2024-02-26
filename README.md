@@ -65,7 +65,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 ## 🔍  Where to find me
-<p align="center">
+<p align="cente">
  
 
   <a href="https://github.com/AhhmedJamal">
