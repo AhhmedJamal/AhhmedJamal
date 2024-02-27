@@ -4,6 +4,7 @@
 <h3 align="center">A Passionate Front-End Developer</h3>
 
 <div align="center" width="50">
+ 
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br> 
 
 </div>
@@ -70,5 +71,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
 <p align="center">
- <imgg src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+ <img src="[https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg](https://www.reddit.com/r/InterestingGifs/comments/2gfst1/real_life_footage_of_a_programmer/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)https://www.reddit.com/r/InterestingGifs/comments/2gfst1/real_life_footage_of_a_programmer/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button" alt="Github Stats" />
 </p>
