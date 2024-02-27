@@ -1,14 +1,9 @@
 #
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
-
 <h3 align="center">A Passionate Front-End Developer</h3>
-
 <div align="center" width="50">
- 
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br> 
-
 </div>
-
 <hr/>
 
 **I'm a Night 🦉** 
@@ -20,8 +15,6 @@
 🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
-
- 
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -58,24 +51,16 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 <hr/>
-<p align="center">
- <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
-</p>
-<hr/>
  <div align="center" width="50">
-
+  
  **Code Cycle**<br>
- 
-   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
-
 <hr/>
-
 <p align="center" width="50">
  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </p>
