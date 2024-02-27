@@ -71,5 +71,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
 <p align="center">
- <img src="[https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg](https://www.reddit.com/r/InterestingGifs/comments/2gfst1/real_life_footage_of_a_programmer/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)https://www.reddit.com/r/InterestingGifs/comments/2gfst1/real_life_footage_of_a_programmer/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button" alt="Github Stats" />
+ 
 </p>
