@@ -59,13 +59,7 @@
 [learning_next_anchor]: #learning-next
 <hr/>
 <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
- <img src"" width="100%">
- 
+ <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </p>
 <hr/>
  <div align="center" width="50">
