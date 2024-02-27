@@ -51,6 +51,10 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 <hr/>
+<p align="center" width="50">
+ <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
+</p>
+<hr/>
  <div align="center" width="50">
   
  **Code Cycle**<br>
@@ -60,7 +64,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
-<hr/>
-<p align="center" width="50">
- <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
-</p>
