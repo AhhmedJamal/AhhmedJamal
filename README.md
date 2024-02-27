@@ -52,6 +52,7 @@
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="27" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="27" />][learning_now_anchor]
+
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
