@@ -5,7 +5,9 @@
 
 
 <div align="center" width="50">
- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+ <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+ 
+ <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=truee" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
 </div>
 
