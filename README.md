@@ -1,4 +1,4 @@
-![giphy](https://github.com/AhhmedJamal/AhhmedJamal/assets/81833844/ba018db4-b1a4-4ffb-84d5-7d9b45658f2d)#
+#
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
