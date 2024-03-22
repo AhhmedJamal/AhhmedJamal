@@ -73,6 +73,6 @@
 <div>
  
  ## 📫 Contact
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahmedjamal/) . 
  
 </div>
