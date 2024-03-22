@@ -1,9 +1,10 @@
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
-<div align="center" width="50">
 - Check out my [website](https://www.ahhmed.vercel.app) to learn more about me.
  
+<div align="center" width="50">
+
  ![giphy](https://github.com/AhhmedJamal/AhhmedJamal/assets/81833844/ce1cd3f7-2fee-4b0e-aebd-eda39e8064bb)
 <!--  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  -->
 <!--  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br>  -->
