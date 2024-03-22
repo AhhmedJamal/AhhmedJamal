@@ -76,6 +76,6 @@
 
  ##
  ## 📫 Contact
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahhmed). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahhmed) 
  
 </div>
