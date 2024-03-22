@@ -63,6 +63,12 @@
  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </p>
 
+## 📫 Contact
+ <p>
+  
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahhmed) 
+ </p>
+
 ##
  <div align="center" width="50">
   
@@ -75,10 +81,4 @@
 </div>
 <div>
 
- ##
- ## 📫 Contact
- <p>
-  
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ahhmed) 
- </p>
 </div>
