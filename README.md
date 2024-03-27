@@ -11,16 +11,7 @@
 </div>
 
 
-##
- <div align="center" width="60">
-  
- **Code Cycle**<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-</div>
+
 <div>
 
 <hr/>
@@ -81,5 +72,15 @@
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/ahhmed.v)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/ahhmedd)
 
-
+##
+ <div align="center" width="60">
+  
+ **Code Cycle**<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+</div>
+##
 </div>
