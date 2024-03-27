@@ -12,7 +12,7 @@
 
 
 ##
- <div align="center" width="50">
+ <div align="center" width="60">
   
  **Code Cycle**<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
@@ -82,12 +82,4 @@
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/ahhmedd)
 
 
-
-<div style="width: 50%;" >
- 
- [![Twitter URL]<img src="https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F" width="100" height="100">
- 
- 
- 
-</div>
 </div>
