@@ -18,7 +18,6 @@
 
 <div>
 
-<hr/>
 
 **I'm a Night 🦉** 
 
