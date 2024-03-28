@@ -34,7 +34,7 @@
 🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
-## Technologies and tools 🛠️
+## 🛠️ Technologies and tools 
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="27" />][tech_tools_anchor]
 &nbsp;
