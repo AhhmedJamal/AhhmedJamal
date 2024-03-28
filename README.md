@@ -8,8 +8,12 @@
  ![giphy](https://github.com/AhhmedJamal/AhhmedJamal/assets/81833844/ce1cd3f7-2fee-4b0e-aebd-eda39e8064bb)
 <!--  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  -->
 <!--  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="70%"/><br>  -->
-</div>
 
+<!--
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+-->
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
