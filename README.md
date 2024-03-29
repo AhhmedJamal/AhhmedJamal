@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
+
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
 - Check out my [website](https://www.ahhmed.vercel.app) to learn more about me.
  
 <div align="center" width="50">
