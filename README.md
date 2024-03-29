@@ -1,6 +1,7 @@
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
 - Check out my [website](https://www.ahhmed.vercel.app) to learn more about me.
  
 <div align="center" width="50">
@@ -19,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
+
 
 
 <div>
@@ -53,6 +54,7 @@
 [<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="27" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="27" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="27" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="27" />][learning_next_anchor]
