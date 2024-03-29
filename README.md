@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
-
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
@@ -17,12 +15,9 @@
 
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
 
 <div>
 
