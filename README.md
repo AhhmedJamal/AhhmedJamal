@@ -9,7 +9,7 @@
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  -->
 
 
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img src="https://i.imgur.com/8MupZHY.gif" width="500px" />
 
 
 </div>
