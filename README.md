@@ -8,9 +8,7 @@
  ![giphy](https://github.com/AhhmedJamal/AhhmedJamal/assets/81833844/ce1cd3f7-2fee-4b0e-aebd-eda39e8064bb)
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  -->
 
-
-<img src="https://i.imgur.com/8MupZHY.gif" width="500px" />
-
+<!--<img src="https://i.imgur.com/8MupZHY.gif" width="500px" /> -->
 
 </div>
 
