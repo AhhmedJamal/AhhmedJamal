@@ -1,7 +1,7 @@
 <h1 align="center"> 🥷🏼 Hey, Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
 
-- Check out my [website](https://www.ahhmed.vercel.app) to learn more about me.
+- Check out my [website](https://ahhmed.vercel.app) to learn more about me.
  
 <div align="center" width="50">
 
