@@ -64,43 +64,43 @@
 <br/>
 
 ### 🌐 Web Dev
-[<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50" />][learning_now_anchor]&nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50" />][learning_now_anchor]
 
 ### 📜 language & freamwork
-[<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="50" />][learning_now_anchor]&nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="60" />][learning_now_anchor]&nbsp; &nbsp;
 
 
 ### ✨ UI/UX
 [<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" />][learning_now_anchor]&nbsp; &emsp;
-[<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="50" />][learning_now_anchor]&nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="60" />][learning_now_anchor]&nbsp;
 
 ### 🔨 Tools
-[<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="50" />][learning_now_anchor]&nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 
 ### 🧰 Version Control
-[<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" />][learning_now_anchor]&nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" />][learning_now_anchor]&nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 
 
 
