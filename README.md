@@ -60,8 +60,9 @@
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="27" />][learning_now_anchor]
 &nbsp;
-<img src="./icons/Firebase-Dark.svg" width="48">
+[<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="styled-components logo" title="styled-components" height="27" />][learning_now_anchor]
 &nbsp;
+
 
 
 
