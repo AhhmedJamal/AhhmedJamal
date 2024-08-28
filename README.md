@@ -90,12 +90,20 @@
 [<img src="https://github.com/user-attachments/assets/5e178fd8-2e4d-4a2e-90e7-2b586406c204" height="60" />][learning_now_anchor]
 
 ### test
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
 
 ### ✨ UI/UX
