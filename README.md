@@ -73,6 +73,7 @@
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+<br/>
 [<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
@@ -85,12 +86,12 @@
 [<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="60" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="55" />][learning_now_anchor]&nbsp; &nbsp;
 
 
 ### ✨ UI/UX
 [<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" />][learning_now_anchor]&nbsp; &emsp;
-[<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="60" />][learning_now_anchor]&nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="55" />][learning_now_anchor]&nbsp;
 
 ### 🔨 Tools
 [<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
