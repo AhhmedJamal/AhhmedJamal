@@ -91,7 +91,8 @@
 
 ### ✨ UI/UX
 [<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" />][learning_now_anchor]&nbsp;
-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba` |
+
+
 [<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="50" />][learning_now_anchor]&nbsp;
 
 ### 🔨 Tools
@@ -103,11 +104,6 @@ icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba` |
 ### 🧰 Version Control
 [<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" />][learning_now_anchor]&nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" />][learning_now_anchor]&nbsp;
-
-
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> |    Bootstrap    
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> |   Tailwind CSS 
-
 
 
 
