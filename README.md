@@ -85,9 +85,9 @@
 ### 📜 language & freamwork
 [<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="55" />][learning_now_anchor]&nbsp; &nbsp;
-[<img src="https://github.com/user-attachments/assets/06b7e500-a69d-4a34-96b2-7387e92d5d92" height="50" />][learning_now_anchor]
+[<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://github.com/user-attachments/assets/06b7e500-a69d-4a34-96b2-7387e92d5d92" height="90" />][learning_now_anchor]
 
 
 
