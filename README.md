@@ -90,7 +90,7 @@
 
 
 ### ✨ UI/UX
-[<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" />][learning_now_anchor]&nbsp;  
+[<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" height="50" />][learning_now_anchor]&nbsp; &emsp;
 [<img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" height="50" />][learning_now_anchor]&nbsp;
 
 ### 🔨 Tools
