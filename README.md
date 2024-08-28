@@ -87,6 +87,8 @@
 [<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="55" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://github.com/user-attachments/assets/06b7e500-a69d-4a34-96b2-7387e92d5d92" height="50" />][learning_now_anchor]
+
 
 
 ### ✨ UI/UX
@@ -97,11 +99,11 @@
 [<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="50" />][learning_now_anchor]
 
 ### 🧰 Version Control
 [<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="50" />][learning_now_anchor]
 
 
 
