@@ -27,8 +27,8 @@
 🌃 Evening                287 commits         ██████████████████░░░░░░░   70.00 % 
 🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
-
-## 🌐 Web Dev
+<hr/>
+### 🌐 Web Dev
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)&nbsp; &nbsp;
@@ -47,7 +47,7 @@
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" height="46" />][learning_now_anchor]&nbsp; &nbsp;
 
 
-## 📜 language & freamwork
+### 📜 language & freamwork
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)&nbsp; &nbsp;
@@ -56,18 +56,18 @@
 [![My Skills](https://skillicons.dev/icons?i=node)](https://skillicons.dev)
 <!--  [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)&nbsp; &nbsp; -->
 
-## ✨ UI/UX
+### ✨ UI/UX
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
 
-## 🛠️ Tools
+### 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)&nbsp; &nbsp;
-[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="45" />][learning_now_anchor]
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="45" />][learning_now_anchor]&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
-## 🧰 Version Control
+### 🧰 Version Control
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
