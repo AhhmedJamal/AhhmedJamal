@@ -106,46 +106,46 @@
 
 
 ### 🌐 Web Dev
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gulp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pug	)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" height="50" />][learning_now_anchor]&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)&nbsp; &nbsp;
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=gulp)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=pug	)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)&nbsp; &nbsp;
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" height="46" />][learning_now_anchor]&nbsp; &nbsp;
 
 
 ### 📜 language & freamwork
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=node)](https://skillicons.dev)
 
 ### ✨ UI/UX
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
 
 ### 🔨 Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)&nbsp; &nbsp;
+[<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="45" />][learning_now_anchor]
 
 ### 🧰 Version Control
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
@@ -159,16 +159,10 @@
 </p> 
 
 ## Social media :mailbox_with_no_mail:
-
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/jeemyy__)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/ahhmed.v)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/ahhmed)
 
 
-
-###
-linkedin
-instagram
 ##
  <div align="center" width="60">
   
