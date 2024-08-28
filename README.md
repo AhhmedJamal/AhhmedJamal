@@ -36,9 +36,9 @@
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)&nbsp; &nbsp;
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)&nbsp; &nbsp;
 <br/>
@@ -62,8 +62,8 @@
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)&nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)&nbsp; &nbsp;
 [<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="45" />][learning_now_anchor]&nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
